@@ -1,0 +1,20 @@
+{
+"total":2
+,"result":[
+            {
+                "categories":[],"created_at":"2020-01-05 13:42:26.447675",
+                "icon_url":"https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+                "id":"5WodmFzySCKkWxuy1YqYJQ","updated_at":"2020-01-05 13:42:26.447675",
+                "url":"https://api.chucknorris.io/jokes/5WodmFzySCKkWxuy1YqYJQ",
+                "value":"Chuck Norris once rocked so hard in an AC/DC concert that it was felt even in 1906. They called it the great San Francisco earthquake."
+            },
+            {
+                "categories":["explicit"],
+                "created_at":"2020-01-05 13:42:29.855523",
+                "icon_url":"https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+                "id":"CbAdkF8IReK9hstCWkoVug","updated_at":"2020-01-05 13:42:29.855523",
+                "url":"https://api.chucknorris.io/jokes/CbAdkF8IReK9hstCWkoVug",
+                "value":"Chuck Norris got lost in San Francisco's Castro District. A man asked Chuck how he'd like to try a gay experience. Chuck asked how he'd like to experience the One Finger Exploding Brain Death Touch."
+            }
+        ]
+}
